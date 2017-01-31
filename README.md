@@ -1,2 +1,2 @@
-# codejam2016
-CodeJam 2016 
+# Coursera Algorithms Part 1 
+Rice university
